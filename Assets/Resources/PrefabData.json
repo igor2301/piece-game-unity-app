@@ -1,0 +1,1 @@
+{"formPaths":[{"prefabName":"MainForm","path":"Gui/Forms/MainForm"},{"prefabName":"StartForm","path":"Gui/Forms/StartForm"}],"framePaths":[{"prefabName":"CellFrame","path":"Gui/Frames/CellFrame"},{"prefabName":"PieceFrame","path":"Gui/Frames/PieceFrame"},{"prefabName":"ScoreFrame","path":"Gui/Frames/ScoreFrame"}]}
